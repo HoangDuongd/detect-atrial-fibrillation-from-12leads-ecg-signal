@@ -1,0 +1,25 @@
+# Python virtual env
+.venv/
+venv/
+
+# Large data files
+*.csv
+*.npy
+*.npz
+*.h5
+*.mat
+data/
+
+# Byte-compiled
+__pycache__/
+*.pyc
+
+# IDE settings
+.vscode/
+.idea/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
